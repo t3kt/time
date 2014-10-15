@@ -2,4 +2,4 @@ params	/_/params
 renderw_low	1280
 renderh_low	720
 renderw_high	1920
-renderw_high	1080
+renderh_high	1080
