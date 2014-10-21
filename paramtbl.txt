@@ -12,6 +12,9 @@ post_feedback_delay	.1	codev2	s20	1	1	feedback delay
 post_feedback_delaymix	.3	codev2	s24	1	1	feedback delay mix
 post_feedback_scale	.5	codev2	s28	1	1	feedback scale
 post_feedback_twist	.5	codev2	s32	1	1	feedback twist
-time_rate	.5	codev2	s4		1	time rate
-pointwarp_rate	.6	codev2	s3	1	1	point warp rate
-distance_rate	.6	codev2	s7	1	1	distance rate
+time_rate	.5	codev2	s4			time rate
+pointwarp_rate	.6	codev2	s3			point warp rate
+distance_rate	.6	codev2	s7			distance rate
+angle_rate	.4	codev2	s11			angle rate
+size_rate	.3	codev2	s2			size rate
+spin_rate	.3	codev2	s6			spin rate
