@@ -1,4 +1,5 @@
 params	/_/routing/params
+smoothparams	/_/routing/smoothparams
 renderw_low	1280
 renderh_low	720
 renderw_high	1920
