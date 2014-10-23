@@ -1,0 +1,5 @@
+name	r	g	b	a
+drycolor	0	0.733333	1	1
+tap1color	0.905882	0	1	1
+tap2color	0	0.184314	1	1
+tap3color	0.316667	0	1	1
